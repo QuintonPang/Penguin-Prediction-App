@@ -37,6 +37,8 @@ else:
 
     # set value into a dictionary
     data = {
+        'island':island,
+        'sex':sex,
         'bill_length_mm':bill_length_mm,
         'bill_depth_mm':bill_depth_mm,
         'flipper_length_mm':flipper_length_mm,
